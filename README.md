@@ -2,7 +2,8 @@
 
 ## Description
 
-Jate is a minimalist, single-page text editor optimized as a Progressive Web App (PWA), providing a seamless writing experience with offline capabilities. Taking advtange of the indexedDB and use of a service worker, this simple text editor allows you to store text and can even be downloaded as an app. 
+Jate is a minimalist, single-page text editor optimized as a Progressive Web App (PWA), providing a seamless writing experience with offline capabilities. Taking advtange of the indexedDB and use of a service worker, this simple text editor allows you to store text and can even be downloaded as an app. The following image displays the layout of the site:   
+![jateee](https://github.com/user-attachments/assets/d201779d-2aea-4d0f-8e9d-82865b485da1)
 
 ## Installation
 
